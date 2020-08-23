@@ -1,0 +1,14 @@
+﻿using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+public class WallTile : Tile
+{
+   public WallTile()
+   {
+        IsOccupied = true;
+        CanWalk = false;
+        tileType = TileType.WALL;
+        HasFood = false;
+   }
+}
