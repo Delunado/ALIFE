@@ -19,7 +19,7 @@ These are a list of things to include in the next version:
 
 
 ## Try It
-You can try the actual version downloading it from [here](www.aaa.com).
+You can try the actual version downloading it from [here](https://github.com/Delunado/ALIFE/raw/master/Try%20It/V0.1Build.zip).
 
 #### Controls:
 - **Space**: Create a new world.
